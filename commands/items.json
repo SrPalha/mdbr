@@ -1,0 +1,1460 @@
+{
+    "Comida 🍎🍹": [
+        {
+            "Nome": "Maçã",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Suco de maçã",
+            "Valor": "60"
+        },
+        {
+            "Nome": "Vinho de maçã",
+            "Valor": "140"
+        },
+        {
+            "Nome": "Beterraba",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Baga",
+            "Valor": "0,2"
+        },
+        {
+            "Nome": "Suco de frutas vermelhas",
+            "Valor": "23"
+        },
+        {
+            "Nome": "Vinho de frutas vermelhas",
+            "Valor": "60"
+        },
+        {
+            "Nome": "Balde de leite",
+            "Valor": "68"
+        },
+        {
+            "Nome": "Balde de leite azedo",
+            "Valor": "96"
+        },
+        {
+            "Nome": "Balde de água",
+            "Valor": "9"
+        },
+        {
+            "Nome": "Repolho",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Cenoura",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Queijo",
+            "Valor": "50"
+        },
+        {
+            "Nome": "Cereja",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Suco de Cereja",
+            "Valor": "130"
+        },
+        {
+            "Nome": "Torta De Cereja",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Vinho Cereja",
+            "Valor": "310"
+        },
+        {
+            "Nome": "Carne de Peixe Seco",
+            "Valor": "20"
+        },
+        {
+            "Nome": "Carne seca",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Ovo",
+            "Valor": "1"
+        },
+        {
+            "Nome": "Carne de Peixe",
+            "Valor": "10"
+        },
+        {
+            "Nome": "Torta de Peixe",
+            "Valor": "140"
+        },
+        {
+            "Nome": "Pão achatado",
+            "Valor": "9"
+        },
+        {
+            "Nome": "Pão sírio com cebola",
+            "Valor": "13"
+        },
+        {
+            "Nome": "Torta De Frutas",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Torta De Frutas",
+            "Valor": "50"
+        },
+        {
+            "Nome": "Mingau",
+            "Valor": "17"
+        },
+        {
+            "Nome": "Favo de mel",
+            "Valor": "10"
+        },
+        {
+            "Nome": "Hidromel",
+            "Valor": "210"
+        },
+        {
+            "Nome": "Carne",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Torta De Carne",
+            "Valor": "110"
+        },
+        {
+            "Nome": "Torta De Carne",
+            "Valor": "60"
+        },
+        {
+            "Nome": "Carne com Molho",
+            "Valor": "23"
+        },
+        {
+            "Nome": "Pão Multigrãos",
+            "Valor": "60"
+        },
+        {
+            "Nome": "Sopa de Cogumelos",
+            "Valor": "11"
+        },
+        {
+            "Nome": "Aveia Ale",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Cerveja de Aveia",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Rolinho de Aveia",
+            "Valor": "21"
+        },
+        {
+            "Nome": "Cebola",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Pera",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Suco de pêra",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Torta De Pêra",
+            "Valor": "80"
+        },
+        {
+            "Nome": "Vinho de pêra",
+            "Valor": "240"
+        },
+        {
+            "Nome": "Poleiro",
+            "Valor": "21"
+        },
+        {
+            "Nome": "Pique",
+            "Valor": "36"
+        },
+        {
+            "Nome": "Ameixa",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Suco de ameixa",
+            "Valor": "130"
+        },
+        {
+            "Nome": "Torta De Ameixa",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Vinho de ameixa",
+            "Valor": "320"
+        },
+        {
+            "Nome": "Torta De Semente De Papoula",
+            "Valor": "120"
+        },
+        {
+            "Nome": "Mingau",
+            "Valor": "17"
+        },
+        {
+            "Nome": "Mingau com Maçã",
+            "Valor": "39"
+        },
+        {
+            "Nome": "Mingau com frutas vermelhas",
+            "Valor": "28"
+        },
+        {
+            "Nome": "Sopa",
+            "Valor": "26"
+        },
+        {
+            "Nome": "Quark",
+            "Valor": "17"
+        },
+        {
+            "Nome": "Barata",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Carne De Peixe Assada",
+            "Valor": "19"
+        },
+        {
+            "Nome": "Carne Assada",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Cerveja de centeio",
+            "Valor": "170"
+        },
+        {
+            "Nome": "Pão de centeio",
+            "Valor": "32"
+        },
+        {
+            "Nome": "Carne De Peixe Salgada",
+            "Valor": "23"
+        },
+        {
+            "Nome": "Carne Salgada",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Ovos mexidos",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Ovos Mexidos com Cogumelo",
+            "Valor": "12"
+        },
+        {
+            "Nome": "Sopa",
+            "Valor": "39"
+        },
+        {
+            "Nome": "Ensopado",
+            "Valor": "20"
+        },
+        {
+            "Nome": "Baga verde",
+            "Valor": "0,2"
+        },
+        {
+            "Nome": "Sopa de Legumes",
+            "Valor": "38"
+        },
+        {
+            "Nome": "Cerveja de Trigo",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Pão De Trigo",
+            "Valor": "34"
+        },
+        {
+            "Nome": "Rolinho de Trigo",
+            "Valor": "23"
+        },
+        {
+            "Nome": "Pão branco",
+            "Valor": "23"
+        }
+    ],
+    "Ervas": [
+        {
+            "Nome": "Cogumelo Bolete Amargo",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Cogumelo Bolete",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Banana de folha larga",
+            "Valor": "0,7"
+        },
+        {
+            "Nome": "Chicória",
+            "Valor": "0,5"
+        },
+        {
+            "Nome": "Margarida",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Dente de leão",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Beladona Mortal",
+            "Valor": "0,7"
+        },
+        {
+            "Nome": "Cogumelo Agárico-mosca",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "meimendro",
+            "Valor": "0,7"
+        },
+        {
+            "Nome": "Cogumelo Morel",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Cogumelo Guarda-sol",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Tóxico",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Poção de Camuflagem",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Poção de Cura",
+            "Valor": "12"
+        },
+        {
+            "Nome": "Poção de Cura I",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Poção de Cura II",
+            "Valor": "30"
+        },
+        {
+            "Nome": "Poção da Saúde",
+            "Valor": "35"
+        },
+        {
+            "Nome": "Poção de Cura Instantânea",
+            "Valor": "10"
+        },
+        {
+            "Nome": "Poção de Cura Instantânea I",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Poção de Cura Instantânea II",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Poção da Visão Noturna",
+            "Valor": "25"
+        },
+        {
+            "Nome": "Poção de Possibilidades",
+            "Valor": "470"
+        },
+        {
+            "Nome": "Poção da saciedade",
+            "Valor": "13"
+        },
+        {
+            "Nome": "Poção de Saturação",
+            "Valor": "11"
+        },
+        {
+            "Nome": "Poção da Sobriedade",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Poção de Vigor",
+            "Valor": "12"
+        },
+        {
+            "Nome": "Poção de Força",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Poção da Temperatura",
+            "Valor": "34"
+        },
+        {
+            "Nome": "Poção de Peso",
+            "Valor": "37"
+        },
+        {
+            "Nome": "Cogumelo Pinheiro Vermelho",
+            "Valor": "0,6"
+        },
+        {
+            "Nome": "Erva de São João",
+            "Valor": "0,5"
+        },
+        {
+            "Nome": "Cardo",
+            "Valor": "0,7"
+        },
+        {
+            "Nome": "Cogumelo Milkcap Lanoso",
+            "Valor": "0,6"
+        }
+    ],
+    "Ferramentas 🔨": [
+        {
+            "Nome": "Bolsa",
+            "Valor": "190"
+        },
+        {
+            "Nome": "Arco",
+            "Valor": "170"
+        },
+        {
+            "Nome": "Flecha de Bronze",
+            "Valor": "32"
+        },
+        {
+            "Nome": "Bronze Axe",
+            "Valor": "590"
+        },
+        {
+            "Nome": "Machado de Batalha de Bronze",
+            "Valor": "280"
+        },
+        {
+            "Nome": "Parafuso de Bronze",
+            "Valor": "32"
+        },
+        {
+            "Nome": "Adaga de Bronze",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Martelo de Bronze",
+            "Valor": "290"
+        },
+        {
+            "Nome": "Enxada de Bronze",
+            "Valor": "290"
+        },
+        {
+            "Nome": "Escudo de pipa de bronze",
+            "Valor": "560"
+        },
+        {
+            "Nome": "Faca de Bronze",
+            "Valor": "300"
+        },
+        {
+            "Nome": "Maça de Bronze",
+            "Valor": "340"
+        },
+        {
+            "Nome": "Escolha de Bronze",
+            "Valor": "340"
+        },
+        {
+            "Nome": "Picareta de Bronze",
+            "Valor": "590"
+        },
+        {
+            "Nome": "Escudo Redondo de Bronze",
+            "Valor": "450"
+        },
+        {
+            "Nome": "Foice de Bronze",
+            "Valor": "590"
+        },
+        {
+            "Nome": "Tesoura de corte de bronze",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Pá de Bronze",
+            "Valor": "590"
+        },
+        {
+            "Nome": "Foice de Bronze",
+            "Valor": "300"
+        },
+        {
+            "Nome": "Lança de Bronze",
+            "Valor": "450"
+        },
+        {
+            "Nome": "Espada de Bronze",
+            "Valor": "290"
+        },
+        {
+            "Nome": "Balde",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Flecha de Cobre",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Machado de Cobre",
+            "Valor": "220"
+        },
+        {
+            "Nome": "Parafuso de cobre",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Martelo de cobre",
+            "Valor": "110"
+        },
+        {
+            "Nome": "Enxada de cobre",
+            "Valor": "110"
+        },
+        {
+            "Nome": "Escudo de pipa de cobre",
+            "Valor": "290"
+        },
+        {
+            "Nome": "Faca de cobre",
+            "Valor": "110"
+        },
+        {
+            "Nome": "Escudo Redondo de Cobre",
+            "Valor": "260"
+        },
+        {
+            "Nome": "Pá de cobre",
+            "Valor": "220"
+        },
+        {
+            "Nome": "Foice de cobre",
+            "Valor": "120"
+        },
+        {
+            "Nome": "Lança de Cobre",
+            "Valor": "200"
+        },
+        {
+            "Nome": "Porrete",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Maça de Elite",
+            "Valor": "890"
+        },
+        {
+            "Nome": "Escolha de elite",
+            "Valor": "890"
+        },
+        {
+            "Nome": "Escudo de Elite",
+            "Valor": "1260"
+        },
+        {
+            "Nome": "Espada de Elite",
+            "Valor": "880"
+        },
+        {
+            "Nome": "Lança de pesca",
+            "Valor": "50"
+        },
+        {
+            "Nome": "Lanterna de mão",
+            "Valor": "320"
+        },
+        {
+            "Nome": "Flecha de Ferro",
+            "Valor": "50"
+        },
+        {
+            "Nome": "Machado de Ferro",
+            "Valor": "880"
+        },
+        {
+            "Nome": "Machado de Batalha de Ferro",
+            "Valor": "380"
+        },
+        {
+            "Nome": "Parafuso de Ferro",
+            "Valor": "50"
+        },
+        {
+            "Nome": "Besta de Ferro",
+            "Valor": "1530"
+        },
+        {
+            "Nome": "Adaga de Ferro",
+            "Valor": "210"
+        },
+        {
+            "Nome": "Martelo de Ferro",
+            "Valor": "430"
+        },
+        {
+            "Nome": "Enxada de Ferro",
+            "Valor": "440"
+        },
+        {
+            "Nome": "Ferraduras de Ferro",
+            "Valor": "440"
+        },
+        {
+            "Nome": "Escudo de pipa de ferro",
+            "Valor": "740"
+        },
+        {
+            "Nome": "Faca de Ferro",
+            "Valor": "440"
+        },
+        {
+            "Nome": "Maça de Ferro",
+            "Valor": "410"
+        },
+        {
+            "Nome": "Picareta de Ferro",
+            "Valor": "410"
+        },
+        {
+            "Nome": "Picareta de Ferro",
+            "Valor": "880"
+        },
+        {
+            "Nome": "Foice de Ferro",
+            "Valor": "880"
+        },
+        {
+            "Nome": "Tesoura de corte de ferro",
+            "Valor": "220"
+        },
+        {
+            "Nome": "Pá de Ferro",
+            "Valor": "860"
+        },
+        {
+            "Nome": "Foice de Ferro",
+            "Valor": "440"
+        },
+        {
+            "Nome": "Lança de Ferro",
+            "Valor": "610"
+        },
+        {
+            "Nome": "Espada de Ferro",
+            "Valor": "410"
+        },
+        {
+            "Nome": "Arco longo",
+            "Valor": "370"
+        },
+        {
+            "Nome": "Flecha de Bronze Envenenada",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Parafuso de Bronze Envenenado",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Flecha de Cobre Envenenada",
+            "Valor": "26"
+        },
+        {
+            "Nome": "Parafuso de cobre envenenado",
+            "Valor": "26"
+        },
+        {
+            "Nome": "Flecha de Ferro Envenenada",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Parafuso de Ferro Envenenado",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Flecha de Pedra Envenenada",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Parafuso de madeira envenenado",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Arco Recurvo",
+            "Valor": "600"
+        },
+        {
+            "Nome": "Bolsa Simples",
+            "Valor": "14"
+        },
+        {
+            "Nome": "Tocha Simples",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Porrete com pontas",
+            "Valor": "60"
+        },
+        {
+            "Nome": "Flecha de Pedra",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Machado de Pedra",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Pedra Como",
+            "Valor": "9"
+        },
+        {
+            "Nome": "Faca de Pedra",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Picareta de Pedra",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Foice de Pedra",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Lança de Pedra",
+            "Valor": "80"
+        },
+        {
+            "Nome": "Jogando Pedra",
+            "Valor": "0,2"
+        },
+        {
+            "Nome": "Tocha",
+            "Valor": "33"
+        },
+        {
+            "Nome": "Odre",
+            "Valor": "32"
+        },
+        {
+            "Nome": "Odre com Água",
+            "Valor": "32"
+        },
+        {
+            "Nome": "Parafuso de madeira",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Besta de madeira",
+            "Valor": "360"
+        },
+        {
+            "Nome": "Martelo de madeira",
+            "Valor": "9"
+        },
+        {
+            "Nome": "Enxada de madeira",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Escudo Redondo de Madeira",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Pá de madeira",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Lança de madeira",
+            "Valor": "4"
+        }
+    ],
+    "Recursos 🌲": [
+        {
+            "Nome": "Recursos",
+            "Valor": "16"
+        },
+        {
+            "Nome": "Cinzas",
+            "Valor": "0,2"
+        },
+        {
+            "Nome": "Garrafa de cerveja",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Semente de Beterraba",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Tintura Preta",
+            "Valor": "150"
+        },
+        {
+            "Nome": "Corante Azul",
+            "Valor": "23"
+        },
+        {
+            "Nome": "Barra de Bronze",
+            "Valor": "140"
+        },
+        {
+            "Nome": "Semente de repolho",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Semente de Cenoura",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Argila",
+            "Valor": "0,4"
+        },
+        {
+            "Nome": "Garrafa de barro",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Tigela de barro",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Copo de Barro",
+            "Valor": "0,8"
+        },
+        {
+            "Nome": "Jarro de barro",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Caneca de barro",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Vaso de barro",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Vaso de Barro com Chicória",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Vaso de Barro com Margarida",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Vaso de Barro com Dente de Leão",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Vaso de Barro com Meimendro",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Vaso de Barro com Erva de São João",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Vaso de Barro com Cardo",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Frasco de Argila",
+            "Valor": "0,8"
+        },
+        {
+            "Nome": "Barra de cobre",
+            "Valor": "28"
+        },
+        {
+            "Nome": "Minério de cobre",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Pique",
+            "Valor": "1"
+        },
+        {
+            "Nome": "Descolorante",
+            "Valor": "25"
+        },
+        {
+            "Nome": "Pena",
+            "Valor": "0,9"
+        },
+        {
+            "Nome": "Fertilizante",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Lenha",
+            "Valor": "0,9"
+        },
+        {
+            "Nome": "Linho",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Semente de linho",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Talo de linho",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Farinha",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Pelagem",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Corante Verde",
+            "Valor": "140"
+        },
+        {
+            "Nome": "Saltar",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Barra de Ferro",
+            "Valor": "90"
+        },
+        {
+            "Nome": "Minério de Ferro",
+            "Valor": "17"
+        },
+        {
+            "Nome": "Cesta de vime grande",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Couro",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Calcário",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Tecido de linho",
+            "Valor": "80"
+        },
+        {
+            "Nome": "Fio de linho",
+            "Valor": "40"
+        },
+        {
+            "Nome": "Registro",
+            "Valor": "1"
+        },
+        {
+            "Nome": "Estrume",
+            "Valor": "0,9"
+        },
+        {
+            "Nome": "Garrafa de Hidromel",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Cesto Médio de Vime",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Aveia",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Grão de Aveia",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Semente de Cebola",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Corante Laranja",
+            "Valor": "130"
+        },
+        {
+            "Nome": "Prancha",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Papoula",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Semente de papoula",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Corante Vermelho",
+            "Valor": "19"
+        },
+        {
+            "Nome": "Centeio",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Grão de Centeio",
+            "Valor": "4"
+        },
+        {
+            "Nome": "Sal",
+            "Valor": "7"
+        },
+        {
+            "Nome": "Cesta pequena de vime",
+            "Valor": "3"
+        },
+        {
+            "Nome": "Casca de abeto",
+            "Valor": "0,2"
+        },
+        {
+            "Nome": "Grudar",
+            "Valor": "0,3"
+        },
+        {
+            "Nome": "Pedra",
+            "Valor": "0,4"
+        },
+        {
+            "Nome": "Canudo",
+            "Valor": "0,1"
+        },
+        {
+            "Nome": "Barra de lata",
+            "Valor": "35"
+        },
+        {
+            "Nome": "Horário de espera",
+            "Valor": "8"
+        },
+        {
+            "Nome": "Tintura Violeta",
+            "Valor": "180"
+        },
+        {
+            "Nome": "Trigo",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Grão de Trigo",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Caixa de vime",
+            "Valor": "11"
+        },
+        {
+            "Nome": "Garrafa de vinho",
+            "Valor": "6"
+        },
+        {
+            "Nome": "Tigela de madeira",
+            "Valor": "0,8"
+        },
+        {
+            "Nome": "Copo De Madeira",
+            "Valor": "0,8"
+        },
+        {
+            "Nome": "Concha de madeira",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Placa de madeira",
+            "Valor": "0,8"
+        },
+        {
+            "Nome": "Colher de pau",
+            "Valor": "2"
+        },
+        {
+            "Nome": "Frasco de madeira",
+            "Valor": "0,4"
+        },
+        {
+            "Nome": "Roda de madeira",
+            "Valor": "18"
+        },
+        {
+            "Nome": "Lã",
+            "Valor": "5"
+        },
+        {
+            "Nome": "Tecido de lã",
+            "Valor": "140"
+        },
+        {
+            "Nome": "Fio de lã",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Corante Amarelo",
+            "Valor": "40"
+        }
+    ],
+    "Roupas e Acessórios 🛡️": [
+        {
+            "Nome": "Chapéu Básico",
+            "Valor": "160"
+        },
+        {
+            "Nome": "Camisa Básica",
+            "Valor": "300"
+        },
+        {
+            "Nome": "Sapatos Básicos",
+            "Valor": "270"
+        },
+        {
+            "Nome": "Calças Básicas",
+            "Valor": "300"
+        },
+        {
+            "Nome": "Armadura de Bronze",
+            "Valor": "2390"
+        },
+        {
+            "Nome": "Braçadeiras de Bronze",
+            "Valor": "810"
+        },
+        {
+            "Nome": "Grevas de Bronze",
+            "Valor": "810"
+        },
+        {
+            "Nome": "Elmo de Bronze",
+            "Valor": "790"
+        },
+        {
+            "Nome": "Calças Bronze",
+            "Valor": "1570"
+        },
+        {
+            "Nome": "Armadura de Elite",
+            "Valor": "6050"
+        },
+        {
+            "Nome": "Braçadeiras de Elite",
+            "Valor": "1900"
+        },
+        {
+            "Nome": "Coleira Elite",
+            "Valor": "4020"
+        },
+        {
+            "Nome": "Grevas de Elite",
+            "Valor": "2000"
+        },
+        {
+            "Nome": "Capacete de Elite",
+            "Valor": "2000"
+        },
+        {
+            "Nome": "Calças Elite",
+            "Valor": "3820"
+        },
+        {
+            "Nome": "Excelentes botas",
+            "Valor": "1010"
+        },
+        {
+            "Nome": "Excelente touca",
+            "Valor": "1440"
+        },
+        {
+            "Nome": "Excelente Coleira",
+            "Valor": "2880"
+        },
+        {
+            "Nome": "Excelente Gambeson",
+            "Valor": "3160"
+        },
+        {
+            "Nome": "Excelentes Luvas",
+            "Valor": "1400"
+        },
+        {
+            "Nome": "Vestido fino",
+            "Valor": "850"
+        },
+        {
+            "Nome": "Chapéu fino",
+            "Valor": "740"
+        },
+        {
+            "Nome": "Capuz fino",
+            "Valor": "630"
+        },
+        {
+            "Nome": "Mangueira Fina",
+            "Valor": "810"
+        },
+        {
+            "Nome": "Sapatos finos",
+            "Valor": "730"
+        },
+        {
+            "Nome": "Túnica Fina",
+            "Valor": "550"
+        },
+        {
+            "Nome": "Armadura de Ferro",
+            "Valor": "3680"
+        },
+        {
+            "Nome": "Braçadeiras de Ferro",
+            "Valor": "1110"
+        },
+        {
+            "Nome": "Grevas de Ferro",
+            "Valor": "1190"
+        },
+        {
+            "Nome": "Capacete de Ferro",
+            "Valor": "1170"
+        },
+        {
+            "Nome": "Calças de Ferro",
+            "Valor": "2500"
+        },
+        {
+            "Nome": "Bolsa Grande",
+            "Valor": "440"
+        },
+        {
+            "Nome": "Alforje Grande",
+            "Valor": "1160"
+        },
+        {
+            "Nome": "Vestido leve",
+            "Valor": "720"
+        },
+        {
+            "Nome": "Chapéu leve",
+            "Valor": "680"
+        },
+        {
+            "Nome": "Sapatos leves",
+            "Valor": "730"
+        },
+        {
+            "Nome": "Calças leves",
+            "Valor": "700"
+        },
+        {
+            "Nome": "Túnica Leve",
+            "Valor": "720"
+        },
+        {
+            "Nome": "Vestido Nobre",
+            "Valor": "1410"
+        },
+        {
+            "Nome": "Chapéu Nobre",
+            "Valor": "1240"
+        },
+        {
+            "Nome": "Capuz Nobre",
+            "Valor": "1400"
+        },
+        {
+            "Nome": "Mangueira Nobre",
+            "Valor": "1000"
+        },
+        {
+            "Nome": "Sapatos Nobres",
+            "Valor": "900"
+        },
+        {
+            "Nome": "Túnica Nobre",
+            "Valor": "1410"
+        },
+        {
+            "Nome": "Sela ornamentada",
+            "Valor": "1440"
+        },
+        {
+            "Nome": "Bolsa",
+            "Valor": "180"
+        },
+        {
+            "Nome": "Botas ricas",
+            "Valor": "1800"
+        },
+        {
+            "Nome": "Casaco rico",
+            "Valor": "1100"
+        },
+        {
+            "Nome": "Luvas ricas",
+            "Valor": "840"
+        },
+        {
+            "Nome": "Chapéu rico",
+            "Valor": "1410"
+        },
+        {
+            "Nome": "Capuz Rico",
+            "Valor": "1310"
+        },
+        {
+            "Nome": "Calças Ricas",
+            "Valor": "1440"
+        },
+        {
+            "Nome": "Sela",
+            "Valor": "760"
+        },
+        {
+            "Nome": "Alforje",
+            "Valor": "1020"
+        },
+        {
+            "Nome": "Mochila Simples",
+            "Valor": "380"
+        },
+        {
+            "Nome": "Touca Simples",
+            "Valor": "460"
+        },
+        {
+            "Nome": "Vestido Simples",
+            "Valor": "550"
+        },
+        {
+            "Nome": "Capuz Simples",
+            "Valor": "320"
+        },
+        {
+            "Nome": "Mochila Grande Simples",
+            "Valor": "760"
+        },
+        {
+            "Nome": "Sapatos Simples",
+            "Valor": "290"
+        },
+        {
+            "Nome": "Mochila Pequena Simples",
+            "Valor": "210"
+        },
+        {
+            "Nome": "Calças Simples",
+            "Valor": "490"
+        },
+        {
+            "Nome": "Túnica Simples",
+            "Valor": "550"
+        },
+        {
+            "Nome": "Bolsa pequena",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Alforje pequeno",
+            "Valor": "380"
+        },
+        {
+            "Nome": "Botas grossas",
+            "Valor": "330"
+        },
+        {
+            "Nome": "Touca grossa",
+            "Valor": "1110"
+        },
+        {
+            "Nome": "Gambeson grosso",
+            "Valor": "3040"
+        },
+        {
+            "Nome": "Luvas grossas",
+            "Valor": "1000"
+        },
+        {
+            "Nome": "Botas Finas",
+            "Valor": "220"
+        },
+        {
+            "Nome": "Gambeson fino",
+            "Valor": "1400"
+        },
+        {
+            "Nome": "Luvas Finas",
+            "Valor": "220"
+        },
+        {
+            "Nome": "Botas quentes",
+            "Valor": "830"
+        },
+        {
+            "Nome": "Casaco Quente",
+            "Valor": "1530"
+        },
+        {
+            "Nome": "Luvas Quentes",
+            "Valor": "420"
+        },
+        {
+            "Nome": "Chapéu quente",
+            "Valor": "810"
+        },
+        {
+            "Nome": "Xale quente",
+            "Valor": "810"
+        },
+        {
+            "Nome": "Calças Quentes",
+            "Valor": "1090"
+        },
+        {
+            "Nome": "Braçadeiras de inverno",
+            "Valor": "70"
+        },
+        {
+            "Nome": "Boné de inverno",
+            "Valor": "100"
+        },
+        {
+            "Nome": "Casaco de inverno",
+            "Valor": "210"
+        },
+        {
+            "Nome": "Colar de inverno",
+            "Valor": "130"
+        },
+        {
+            "Nome": "Sapatos de inverno",
+            "Valor": "240"
+        },
+        {
+            "Nome": "Calças de inverno",
+            "Valor": "150"
+        }
+    ]
+}
